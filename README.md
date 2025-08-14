@@ -23,7 +23,7 @@
 ## 📌 Featured Projects
 - [**Identity Issuing Service**](https://github.com/hirunmayadunna/identityIssuingService) – Web app to issue & manage identity records.
 - [**Weather Website**](https://github.com/hirunmayadunna/weather-website) – Displays real-time weather data.
-- [**Calculator**](https://github.com/hirunmayadunna/calculator) – A simple, clean calculator app using HTML, CSS, and JavaScript.
+- [**Smart Expense – Finance Tracker**](https://github.com/hirunmayadunna/smart_expense) – Kotlin-based Android app for tracking expenses, incomes, and budgets with data visualization.
 
 
 ---
