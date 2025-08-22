@@ -4,7 +4,6 @@
 🌱 Passionate about **Web Development** & **UI/UX Design**  
 🚀 Shaping innovative digital experiences while continuously learning and building projects  
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -37,9 +36,10 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hirunmayadunna)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hirunmayadunna)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/hirunmayadunna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hirunmayadunna)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hirunmayadunna)  
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/hirunmayadunna)  
 
 ---
 
+⭐ **"Keep learning, keep building, keep growing."**
